@@ -1,0 +1,6 @@
+{
+  "name": "Energy Castle",
+  "description": "Rooftop solar EPC serving Chathannoor, Kollam, and Thiruvananthapuram. KSEB net-metering, PM Surya Ghar subsidy execution, and monsoon-rated installations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
